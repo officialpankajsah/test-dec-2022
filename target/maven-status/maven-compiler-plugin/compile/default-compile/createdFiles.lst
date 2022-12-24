@@ -1,0 +1,4 @@
+com\example\postgresql\controller\ProductController.class
+com\example\postgresql\model\Product.class
+com\example\postgresql\PostgresqlApplication.class
+com\example\postgresql\repository\ProductRepository.class
